@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Week 5 Students App</string>
+
+    <!-- Activity Login. -->
+    <string name="hey">Hey,</string>
+    <string name="login_now">Login Now.</string>
+    <string name="if_you_are_new">If you are a  new /</string>
+    <string name="create_new">Create New</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Passcode?/</string>
+    <string name="reset">Reset</string>
+    <string name="wrong_credentials">Wrong credentials</string>
+
+    <!-- Activity Create student. -->
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="create_student">Create Student</string>
+    <string name="new_student">New Student.</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="department">Department</string>
+    <string name="update_student">Update Student</string>
+    <string name="form_validation_failed">Form validation failed.</string>
+    <string name="student_saved">Student Saved!</string>
+
+    <!-- Activity Student list. -->
+    <string name="Student">Student…</string>
+    <string name="Students">Students</string>
+    <string name="sigh_out">Sign out</string>
+    <string name="search_students">Search students…</string>
+    <string name="email">Email</string>
+    <string name="delete_student">Delete student</string>
+    <string name="are_you_sure_delete">Are you sure want to delete student?</string>
+    <string name="student_deleted">Student deleted!</string>
+
+    <string-array name="hello">
+        <item>"Hai"</item>
+        <item>"Hello"</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
